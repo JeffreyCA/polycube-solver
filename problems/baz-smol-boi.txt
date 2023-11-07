@@ -1,5 +1,5 @@
 problem = {
 	box = { 4, 3, 3 },
-	pieces = { "BAZ_SIG", "BAZ_PENTA_S", "BAZ_L", "BAZ_TETRA_SYM", "BAZ_TETRA_T", "BAZ_PENTA_U", "BAZ_HEXA_J" },
+	pieces = { "BAZ_SIG", "BAZ_PENTA_S", "BAZ_L", "BAZ_TETRA_SYM", "BAZ_TETRA_T", "BAZ_PENTA_U", "BAZ_HEXA_J", "1_" },
 	constrain = "1_"
 }
